@@ -1,0 +1,45 @@
+{
+  "word_of_the_day": {
+    "word": "Serendipity",
+    "meaning": "The occurrence of happy or beneficial events by chance.",
+    "example": "Meeting her at the café was pure serendipity.",
+    "image": "https://raw.githubusercontent.com/USERNAME/REPO/main/images/serendipity.png"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "title": "Confusing Words",
+      "image": "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/icons/confusing_vocab.png"
+    },
+    {
+      "id": 2,
+      "title": "Corporate Vocabulary",
+      "image": "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/icons/corporate_vocab.png"
+    },
+    {
+      "id": 3,
+      "title": "Idioms",
+      "image": "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/icons/Idioms_vocab.png"
+    },
+    {
+      "id": 4,
+      "title": "Alphabet Vocabulary Series",
+      "image": "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/icons/alphabet_vocab.png"
+    },
+	 {
+      "id": 5,
+      "title": "Group Vocabulary",
+      "image": "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/icons/group_vocab.png"
+    },
+	 {
+      "id": 4,
+      "title": "Fear Vocabulary",
+      "image": "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/icons/fear_vocab.png"
+    },
+	 {
+      "id": 4,
+      "title": "Advanced Vocabulary",
+      "image": "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/icons/advanced_vocab.png"
+    }
+  ]
+}
