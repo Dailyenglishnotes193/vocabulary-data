@@ -1,0 +1,46 @@
+{
+	"corporate_vocabulary" : [
+		{
+			"title" : "Assertive",
+			"meaning" : "Confident without being aggressive",
+			"example" : "She assertively asked for a raise",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/corporate_image/corporate_1.jpg"
+		},
+		{
+			"title" : "Accountability",
+			"meaning" : "Taking responsibility for actions",
+			"example" : "He showed accountibility after the mistake",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/corporate_image/corporate_2.jpg"
+		},
+		{	
+			"title" : "Pragmatic",
+			"meaning" : "Practical and realistic",
+			"example" : "We need a pragmatic solution",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/corporate_image/corporate_3.jpg"
+		},
+		{	
+			"title" : "Alignment",
+			"meaning" : "Agreement on goals or direction",
+			"example" : "Are we aligned on the timeline?",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/corporate_image/corporate_4.jpg"
+		},
+		{	
+			"title" : "Initiative",
+			"meaning" : "Ability to take action independently",
+			"example" : "She showed great initiative in leading the project",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/corporate_image/corporate_5.jpg"
+		},
+		{	
+			"title" : "Optimize",
+			"meaning" : "Improve efficiency",
+			"example" : "We need to optimize our workflow",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/corporate_image/corporate_7.jpg"
+		},
+		{	
+			"title" : "Mitigate",
+			"meaning" : "Reduce risk or impact",
+			"example" : "Let's mitigate the potential risk early",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/corporate_image/corporate_8.jpg"
+		}
+	]
+}
