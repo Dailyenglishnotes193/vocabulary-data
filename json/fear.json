@@ -1,0 +1,32 @@
+{
+	"fearVocab" : [
+		{
+			"word" : "Arachnophobia",
+			"meaning" : "Fear of spiders"
+		},
+		{
+			"word" : "Acrophobia",
+			"meaning" : "Fear of heights"
+		},
+		{	
+			"word" : "Claustrophobia",
+			"meaning" : "Fear of closed spaces"
+		},
+		{	
+			"word" : "Trypanophobia",
+			"meaning" : "Fear of injections"
+		},
+		{	
+			"word" : "Glossophobia",
+			"meaning" : "Fear of public speaking"
+		},
+		{	
+			"word" : "Agoraphobia",
+			"meaning" : "Fear of crowded places"
+		},
+		{	
+			"word" : "Coulrophobia",
+			"meaning" : "Fear of clowns"
+		}
+	]
+}
