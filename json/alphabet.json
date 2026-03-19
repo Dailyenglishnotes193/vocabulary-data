@@ -1,0 +1,387 @@
+{
+	"alphabet" : [
+		{
+			"title" : "Auspicious",
+			"meaning" : "Showing signs of future success and good luck",
+			"example" : "Today is an auspicious day to start something new",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/aseries_1.jpg"
+		},
+		{
+			"title" : "Atrocious",
+			"meaning" : "Extremely bad or cruel",
+			"example" : "The weather was atrocious yesterday",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/aseries_2.jpg"
+		},
+		{	
+			"title" : "Anguish",
+			"meaning" : "A feeling of deep pain or suffering",
+			"example" : "She cried in anguish after hearing the news",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/aseries_3.jpg"
+		},
+		{	
+			"title" : "Arcane",
+			"meaning" : "Known by very few",
+			"example" : "The rules of the game are arcane to the beginners",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/aseries_4.jpg"
+		},
+		{	
+			"title" : "Benevolent",
+			"meaning" : "Kind and generous",
+			"example" : "She is known for her benevolent nature",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/bseries_1.jpg"
+		},
+		{	
+			"title" : "Bleak",
+			"meaning" : "Sad and hopeless",
+			"example" : "The future looked bleak after the failure",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/bseries_2.jpg"
+		},
+		{	
+			"title" : "Bizarre",
+			"meaning" : "Very strange",
+			"example" : "That was a bizarre experience",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/bseries_3.jpg"
+		},
+		{	
+			"title" : "Bewildered",
+			"meaning" : "Completely confused",
+			"example" : "He looked bewildered by the question",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/bseries_4.jpg"
+		},
+		{	
+			"title" : "Calamity",
+			"meaning" : "A great disaster",
+			"example" : "The flood was a major calamity",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/cseries_1.jpg"
+		},
+		{	
+			"title" : "Complacent",
+			"meaning" : "Too satisfied or not trying to improve",
+			"example" : "The team became complacent after winning once",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/cseries_2.jpg"
+		},
+		{	
+			"title" : "Conventional",
+			"meaning" : "Traditional or following what is normally done",
+			"example" : "It was a conventinal wedding ceremony",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/cseries_3.jpg"
+		},
+		{	
+			"title" : "Coherent",
+			"meaning" : "Clear,logical and easy to understand",
+			"example" : "Her explanation was coherent and simple ",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/cseries_4.jpg"
+		},
+		{	
+			"title" : "Deceit",
+			"meaning" : "Dishonesty; lying  or cheating",
+			"example" : "He was punished for his deceit",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/dseries_1.jpg"
+		},
+		{	
+			"title" : "Dilligent",
+			"meaning" : "Hard-working and careful",
+			"example" : "She is a dilligent student",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/dseries_2.jpg"
+		},
+		{	
+			"title" : "Disguise",
+			"meaning" : "To hide the real identity",
+			"example" : "He wore cap as a disguise",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/dseries_3.jpg"
+		},
+		{	
+			"title" : "Deliberate",
+			"meaning" : "Done on purpose",
+			"example" : "It was a deliberate mistake to test them",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/dseries_4.jpg"
+		},
+		{	
+			"title" : "Euphoria",
+			"meaning" : "A feeling of intense happiness",
+			"example" : "He was in a state of euphoria after the results",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/eseries_1.jpg"
+		},
+		{	
+			"title" : "Exquisite",
+			"meaning" : "Extremely beautiful or well-made",
+			"example" : "The painting had exquisite details",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/eseries_2.jpg"
+		},
+		{	
+			"title" : "Elusive",
+			"meaning" : "Difficult to find or understand",
+			"example" : "Success remained elusive for years",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/eseries_3.jpg"
+		},
+		{	
+			"title" : "Enigma",
+			"meaning" : "Something mysterious or hard to understand",
+			"example" : "Her silence was an enigma",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/eseries_4.jpg"
+		},
+		{	
+			"title" : "Fathom",
+			"meaning" : "To understand deeply",
+			"example" : "I still can't fathom how she solved it quickly",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/fseries_1.jpg"
+		},
+		{	
+			"title" : "Fickle",
+			"meaning" : "Changing feelings or decisions often",
+			"example" : "His fickle mind made it hard to stick to one decision",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/fseries_2.jpg"
+		},{	
+			"title" : "Finesse",
+			"meaning" : "Skill and subtle handling",
+			"example" : "He handled the tough question with finesse",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/fseries_3.jpg"
+		},
+		{	
+			"title" : "Frugal",
+			"meaning" : "Careful with money;not wasteful",
+			"example" : "She lives a frugal lifestyle to save for her future",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/fseries_4.jpg"
+		},
+		{	
+			"title" : "Gullible",
+			"meaning" : "Easily tricked or folled",
+			"example" : "He is so gullible that he believed the fake message",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/gseries_1.jpg"
+		},
+		{	
+			"title" : "Gallant",
+			"meaning" : "Brave and noble",
+			"example" : "The gallant soldier protected his team",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/gseries_2.jpg"
+		},
+		{	
+			"title" : "Grit",
+			"meaning" : "Courage and determination",
+			"example" : "Her success is a result of pure grit",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/gseries_3.jpg"
+		},
+		{	
+			"title" : "Gleam",
+			"meaning" : "To shine softly;a small light",
+			"example" : "There was a gleam of hope in his eyes",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/gseries_4.jpg"
+		},
+		{	
+			"title" : "Harbor",
+			"meaning" : "To keep or hold a feeling or thought",
+			"example" : "She still harbors resentment over what happened",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/hseries_1.jpg"
+		},
+		{	
+			"title" : "Hindsight",
+			"meaning" : "Understanding something only after it has happened",
+			"example" : "In hindsight,quitting that job was the right decision",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/hseries_2.jpg"
+		},
+		{	
+			"title" : "Hostile",
+			"meaning" : "Unfriendly or aggressive",
+			"example" : "The crowd turned hostile during the srguement",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/hseries_3.jpg"
+		},
+		{	
+			"title" : "Hinder",
+			"meaning" : "To delay or make something difficult",
+			"example" : "Lack of sleep can hinder your performance",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/hseries_4.jpg"
+		},
+		{	
+			"title" : "Invincible",
+			"meaning" : "Impossible to defeat",
+			"example" : "After the victory,they felt invincible",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/iseries_1.jpg"
+		},
+		{	
+			"title" : "Intricate",
+			"meaning" : "Very detailed or complex",
+			"example" : "The dress has an intricate design",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/iseries_2.jpg"
+		},
+		{	
+			"title" : "Ingenious",
+			"meaning" : "Very clever and inventive",
+			"example" : "It was an ingenious solution to the problem",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/iseries_3.jpg"
+		},
+		{	
+			"title" : "Inherent",
+			"meaning" : "Naturally existing within something",
+			"example" : "Risks are inherent in every business",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/iseries_4.jpg"
+		},
+		{	
+			"title" : "Judicious",
+			"meaning" : "Wise and careful in decisions",
+			"example" : "Being judicious with your spending helps you avoid debt",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/jseries_1.jpg"
+		},
+		{	
+			"title" : "Jeopardize",
+			"meaning" : "To put something at risk",
+			"example" : "Missing deadlines can jeopardize your chances of getting promoted",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/jseries_2.jpg"
+		},
+		{	
+			"title" : "Jittery",
+			"meaning" : "Nervous,uneasy,or unable to relax",
+			"example" : "He felt jittery before his first big presentation",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/jseries_3.jpg"
+		},
+		{	
+			"title" : "Juggernaut",
+			"meaning" : "A powerful force or institution that is unstoppable",
+			"example" : "The startup quickly became a tech jaggernaut in just five years",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/jseries_4.jpg"
+		},
+		{	
+			"title" : "Keen",
+			"meaning" : "Eager,highly interested",
+			"example" : "She is keen to take on leadership roles",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/kseries_1.jpg"
+		},
+		{	
+			"title" : "Knack",
+			"meaning" : "A natural ability",
+			"example" : "He has a knack for solving problems quickly",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/kseries_2.jpg"
+		},
+		{	
+			"title" : "Kudos",
+			"meaning" : "Praise or recognition",
+			"example" : "Kudos to you for staying consistent",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/kseries_3.jpg"
+		},
+		{	
+			"title" : "Kickstart",
+			"meaning" : "To begin something with energy",
+			"example" : "This course will kickstart your career",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/kseries_4.jpg"
+		},
+		{	
+			"title" : "Lethargic",
+			"meaning" : "Lacking energy",
+			"example" : "I felt lethargic after the long meeting",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/lseries_1.jpg"
+		},
+		{	
+			"title" : "Lucrative",
+			"meaning" : "Highly profitable",
+			"example" : "Freelancing can be very lucrative",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/lseries_2.jpg"
+		},
+		{	
+			"title" : "Leverage",
+			"meaning" : "Use to maximum advantage",
+			"example" : "She leveraged her network to grow her business",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/lseries_3.jpg"
+		},
+		{	
+			"title" : "Lament",
+			"meaning" : "Express sadness or regret",
+			"example" : "He lamented the missed opportunity",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/lseries_4.jpg"
+		},
+		{	
+			"title" : "Magnanimous",
+			"meaning" : "Kind,generous and forgiving",
+			"example" : "Her magnanimous nature earned respect",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/mseries_1.jpg"
+		},
+		{	
+			"title" : "Mundane",
+			"meaning" : "Ordinary and dull",
+			"example" : "Daily chores can sometimes feel mundane",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/mseries_2.jpg"
+		},
+		{	
+			"title" : "Monotonous",
+			"meaning" : "Repetitive and boring",
+			"example" : "His monotonous voice made everyone sleepy",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/mseries_3.jpg"
+		},
+		{	
+			"title" : "Malevolent",
+			"meaning" : "Having harmful intent",
+			"example" : "The villain had a malevolent plan",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/mseries_4.jpg"
+		},
+		{	
+			"title" : "Nuance",
+			"meaning" : "Suble difference",
+			"example" : "There's nuance between confidence and arrogance",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/nseries_1.jpg"
+		},
+		{	
+			"title" : "Novice",
+			"meaning" : "Beginner",
+			"example" : "He may be a novice,but he's eager to learn",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/nseries_2.jpg"
+		},
+		{	
+			"title" : "Notion",
+			"meaning" : "Belief or idea",
+			"example" : "She rejected the notion that success comes overnight",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/nseries_3.jpg"
+		},
+		{	
+			"title" : "Nonchalant",
+			"meaning" : "Not aware of what's happening",
+			"example" : "He was oblivious to the awkward silence in the room",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/nseries_4.jpg"
+		},
+		{	
+			"title" : "Oblivious",
+			"meaning" : "Express sadness or regret",
+			"example" : "He lamented the missed opportunity",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/oseries_1.jpg"
+		},
+		{	
+			"title" : "Ominous",
+			"meaning" : "Suggesting something bad will happen",
+			"example" : "The dark sky looked ominous",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/oseries_2.jpg"
+		},
+		{	
+			"title" : "Opulent",
+			"meaning" : "Extremely rich and luxurious",
+			"example" : "They stayed in an opulent hotel",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/oseries_3.jpg"
+		},
+		{	
+			"title" : "Outlandish",
+			"meaning" : "Very strange and unusual",
+			"example" : "That theory sounds outlandish",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/oseries_4.jpg"
+		},
+		{	
+			"title" : "Paradox",
+			"meaning" : "A statement that seems contradictory but is true",
+			"example" : "Less is more is a classic paradox",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/pseries_1.jpg"
+		},
+		{	
+			"title" : "Pristine",
+			"meaning" : "In perfect condition",
+			"example" : "The roon was in pristine condition",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/pseries_2.jpg"
+		},
+		{	
+			"title" : "Plethora",
+			"meaning" : "Too much of something",
+			"example" : "There's a plethora of options available",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/pseries_3.jpg"
+		},
+		{	
+			"title" : "Propensity",
+			"meaning" : "Natural tendency",
+			"example" : "She has propensity for leadership",
+			"image" : "https://raw.githubusercontent.com/Dailyenglishnotes193/vocabulary-data/main/alphabet_image/pseries_4.jpg"
+		}
+	]
+}
