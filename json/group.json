@@ -1,0 +1,36 @@
+{
+	"groupVocab" : [
+		{
+			"word" : "Murder",
+			"meaning" : "Group of crows"
+		},
+		{
+			"word" : "Colony",
+			"meaning" : "Group of ants"
+		},
+		{	
+			"word" : "Troop",
+			"meaning" : "Group of monkeys"
+		},
+		{	
+			"word" : "School",
+			"meaning" : "Group of fish"
+		},
+		{	
+			"word" : "Dazzle",
+			"meaning" : "Group of Zebras"
+		},
+		{	
+			"word" : "Parliament",
+			"meaning" : "Group of owls"
+		},
+		{	
+			"word" : "Swarm",
+			"meaning" : "Group of bees"
+		},
+		{
+			"word" : "Pride",
+			"meaning" : "Group of lions"
+		}
+	]
+}
