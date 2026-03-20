@@ -1,0 +1,325 @@
+{
+  "confusing": [
+    {
+      "category": "Compliment vs Complement",
+      "items": [
+        {
+          "title": "Compliment",
+          "meaning": "To praise someone",
+          "example": "He complimented her dress"
+        },
+        {
+          "title": "Complement",
+          "meaning": "To complete or enhance something",
+          "example": "The scarf complemenrs her outfit"
+        }
+      ]
+    },
+    {
+      "category": "Empathy vs Sympathy vs Apathy",
+      "items": [
+        {
+          "title": "Empathy",
+          "meaning": "Ability to understand and feel what another person is experiencing",
+          "example": "She showed empathy by listening to her friend without judging"
+        },
+        {
+          "title": "Sympathy",
+          "meaning": "Feeling sorry or concerned for someone without fully sharing their emotions",
+          "example": "She expressed sympathy for her friend after the loss of her pet"
+        },
+		{
+          "title": "Apathy",
+          "meaning": "Lack of interest,concern,or emotion toward someone else's situation",
+          "example": "His apathy towards his studies worried his parents"
+        }
+      ]
+    },
+	{
+      "category": "Further vs Farther",
+      "items": [
+        {
+          "title": "Further",
+          "meaning": "Refers to additional or extra,or to continue",
+          "example": "I need to discuss further before making a decision"
+        },
+        {
+          "title": "Farther",
+          "meaning": "Refers to physical distance",
+          "example": "The park is farther than I thought from my house"
+        }
+      ]
+    },
+	{
+      "category": "Expect vs Accept vs Except",
+      "items": [
+        {
+          "title": "Expect",
+          "meaning": "To believe something will happen",
+          "example": "I expect good results this year"
+        },
+        {
+          "title": "Accept",
+          "meaning": "To receive or agree to something",
+          "example": "She accepted the job offer happily"
+        },
+		 {
+          "title": "Except",
+          "meaning": "To leave out or not include",
+          "example": "Everyone came except John"
+        }
+      ]
+    },
+	{
+      "category": "Affect vs Effect vs Impact",
+      "items": [
+        {
+          "title": "Affect",
+          "meaning": "To influence",
+          "example": "Lack of sleep can affect your mood"
+        },
+        {
+          "title": "Effect",
+          "meaning": "Result or outcome",
+          "example": "The medicine had a good effect on her health"
+        },
+		 {
+          "title": "Impact",
+          "meaning": "Strong effect or influence",
+          "example": "The speech had a big impact on the audience"
+        }
+      ]
+    },
+	{
+      "category": "Emigrate vs Immigrate vs Migrate",
+      "items": [
+        {
+          "title": "Emigrate",
+          "meaning": "To leave your own country to live in another",
+          "example": "She emigrated from India to Canada"
+        },
+        {
+          "title": "Immigrate",
+          "meaning": "To come into a new country to live there",
+          "example": "He immigrated to Australia for work"
+        },
+		 {
+          "title": "Migrate",
+          "meaning": "To move from one place to another",
+          "example": "Many people migrate to cities for better opportunities"
+        }
+      ]
+    },
+	{
+      "category": "Ellicit vs Illicit vs Explicit",
+      "items": [
+        {
+          "title": "Ellicit",
+          "meaning": "To bring out or draw out",
+          "example": "The teacher's question elicited a thoughtful answer"
+        },
+        {
+          "title": "Illicit",
+          "meaning": "Illegal or forbidden",
+          "example": "They were arrested for illicit drug trade"
+        },
+		 {
+          "title": "Explicit",
+          "meaning": "Very clear and direct;leaving now doubt",
+          "example": "She gave explicit instructions for the task"
+        }
+      ]
+    },
+	{
+      "category": "Through vs Though vs Thorough",
+      "items": [
+        {
+          "title": "Through",
+          "meaning": "From one side to the other",
+          "example": "She walked through the door"
+        },
+        {
+          "title": "Though",
+          "meaning": "However",
+          "example": "It was raining,though we went out"
+        },
+		 {
+          "title": "Thorough",
+          "meaning": "Complete or detailed",
+          "example": "She did a thorough job on the project"
+        }
+      ]
+    },
+	{
+      "category": "Assure vs Ensure vs Insure",
+      "items": [
+        {
+          "title": "Assure",
+          "meaning": "To remove doubt",
+          "example": "She assured me that everything would be fine"
+        },
+        {
+          "title": "Ensure",
+          "meaning": "To make sure something happens",
+          "example": "Please ensure the door is locked"
+        },
+		 {
+          "title": "Insure",
+          "meaning": "To protect financially against loss or damage",
+          "example": "They insured the car against accident"
+        }
+      ]
+    },
+	{
+      "category": "Optimist vs Pessimist",
+      "items": [
+        {
+          "title": "Optimist",
+          "meaning": "A person who expects positive outcomes and focuses on the good",
+          "example": "This is a setback,not the end"
+        },
+        {
+          "title": "Pessimist",
+          "meaning": "A person who expects negative outcomes and focuses on problems",
+          "example": "Nothing ever works out for me"
+        }
+      ]
+    },
+	{
+      "category": "Personal vs Personnel",
+      "items": [
+        {
+          "title": "Personal",
+          "meaning": "Related to an indivdual or private life",
+          "example": "Please do not use your personal phone during office hours"
+        },
+        {
+          "title": "Personnel",
+          "meaning": "People employed in an organisation; Staff",
+          "example": "Only authorisd personnel are allowed beyond this point"
+        }
+      ]
+    },
+	{
+      "category": "Peak vs Peek vs Pique",
+      "items": [
+        {
+          "title": "Peak",
+          "meaning": "The highest point or maximum level",
+          "example": "She reached the peak of her career at just 35"
+        },
+        {
+          "title": "Peek",
+          "meaning": "To take a quick or secret look",
+          "example": "He took a peek at the surprise gift"
+        },
+		 {
+          "title": "Pique",
+          "meaning": "To stimuate interest or curiosity",
+          "example": "The trailer piqued my interest"
+        }
+      ]
+    },
+	{
+      "category": "Allusion vs Illusion vs Delusion",
+      "items": [
+        {
+          "title": "Allusion",
+          "meaning": "An inirect reference to something",
+          "example": "His speech made an allusion to Romeo and Juliet"
+        },
+        {
+          "title": "Iluusion",
+          "meaning": "Something that appears real but is actually false",
+          "example": "The magician created the illusion of disappearing"
+        },
+		 {
+          "title": "Delusion",
+          "meaning": "A strong belief in something that is not true",
+          "example": "He was under the delusion that he couldn't fail"
+        }
+      ]
+    },
+	{
+      "category": "Eminent vs Imminent vs Prominent",
+      "items": [
+        {
+          "title": "Eminent",
+          "meaning": "Famous,respected or highly regarded",
+          "example": "She is an eminent cardiologist known worldwide"
+        },
+        {
+          "title": "Imminent",
+          "meaning": "About to happen very soon",
+          "example": "Rain is imminent"
+        },
+		 {
+          "title": "Prominent",
+          "meaning": "Important,noticeable or well-known",
+          "example": "She plays a prominent role in the company"
+        }
+      ]
+    },
+	{
+      "category": "Cite vs Site vs Sight",
+      "items": [
+        {
+          "title": "Cite",
+          "meaning": "To quote,mention or refernce as evidence",
+          "example": "Please cite your sources in the report"
+        },
+        {
+          "title": "Site",
+          "meaning": "A place or location",
+          "example": "The construction site is closed"
+        },
+		 {
+          "title": "Sight",
+          "meaning": "Vision or something seen",
+          "example": "He lost his sight after the accident"
+        }
+      ]
+    },
+	{
+      "category": "Apprehend vs Comprehend vs Reprehend",
+      "items": [
+        {
+          "title": "Apprehend",
+          "meaning": "Arrest or catch",
+          "example": "The police apprehended the thief"
+        },
+        {
+          "title": "Comprehend",
+          "meaning": "To understand",
+          "example": "I finally comprehend the concept"
+        },
+		 {
+          "title": "Reprehend",
+          "meaning": "Strongly criticize",
+          "example": "The manager reprehended the mistake"
+        }
+      ]
+    },
+	{
+      "category": "Persecute vs Prosecute vs Execute",
+      "items": [
+        {
+          "title": "Persecute",
+          "meaning": "To treat someone cruelly or unfairly,often because of religion,race or belief",
+          "example": "Many people were persecuted for their religious beliefs"
+        },
+        {
+          "title": "Persecute",
+          "meaning": "To legal action against someone in court",
+          "example": "The state decided to prosecute the company for fraud"
+        },
+		 {
+          "title": "Execute",
+          "meaning": "To carry out a plan",
+          "example": "The team executed the stratergy perfectly"
+        }
+      ]
+    }
+	
+  ]
+}
